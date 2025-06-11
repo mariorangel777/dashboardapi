@@ -1,4 +1,3 @@
-import { Card } from "@/app/ui/dashboard/cards";
 import { lusitana } from "@/app/ui/fonts";
 import Youtube from "@/app/ui/iFrames/youtube";
 export default function Page() {
@@ -13,7 +12,7 @@ export default function Page() {
        <Youtube/>
         </div>
         
-        <iframe src="https://assets.pinterest.com/ext/embed.html?id=12033123999252134" height="789" width="345" frameborder="0" scrolling="no" ></iframe>
+        <iframe src="https://assets.pinterest.com/ext/embed.html?id=12033123999252134" height="789" width="345" frameBorder="0" scrolling="no" ></iframe>
         <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2F3DJuegosLATAM%2Fposts%2Fpfbid02HZy68PXyj1wjQ12FfwDVsWdB7dHh8KgvaiG7KawRtQpTfaCkPhiSLhPrcA834Jofl&show_text=false&width=500" width="500" height="498"  scrolling="no" frameBorder="0"  allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
         <script src="https://linangdata.com/calculatorEmbed/linangcalc.js"></script>
                 <div >
