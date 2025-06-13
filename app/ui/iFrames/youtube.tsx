@@ -12,7 +12,7 @@ export default function Youtube (){
       </div>
       <div className="flex flex-col grow justify-between rounded-xl bg-black p-4">
          <div className="bg-white"> {/*se borra el padding X */}
-         <iframe className="w-full h-560"  src="https://www.youtube.com/embed/CFGLoQIhmow?si=_wZjv9XVruwGHT-R" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+         <iframe className="w-full h-[30rem]"   src="https://www.youtube.com/embed/CFGLoQIhmow?si=_wZjv9XVruwGHT-R" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
         </div> {/*se añade className y w-full */}
         <div className="flex items-center pb-2 pt-6">
           <ArrowPathIcon className="h-5 w-5 text-gray-500" />
